@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherProj</string>
+    <string name="location">Location</string>
+    <string name="updated_at">Updated At</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="create_by">Created By</string>
+    <string name="me">Me</string>
+</resources>
